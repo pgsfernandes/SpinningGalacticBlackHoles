@@ -1,4 +1,4 @@
-# GalacticBlackHoles
+# SpinningGalacticBlackHoles
 Stationary and axially symmetric solver to obtain black hole solutions to the Einstein field equations in an astrophysical environment
 
 If you use this code you are kindly asked to cite the following papers:
@@ -24,4 +24,4 @@ If you use this code you are kindly asked to cite the following papers:
 }
 ```
 
-To install the code, please refer to the [SpinningBlackHoles.jl repository](https://github.com/pgsfernandes/SpinningBlackHoles.jl) for instructions. Note, however, that additional packages are required for this updated version. The names of all necessary packages can be found in the files `HighPrecisionSpinningBHs/SpinningBlackHoles.jl` and `System.jl` within this repository.
+To install the code, please refer to the [SpinningBlackHoles.jl](https://github.com/pgsfernandes/SpinningBlackHoles.jl) repository for instructions. Note, however, that additional packages are required for this updated version. The names of all necessary packages can be found in the files `HighPrecisionSpinningBHs/SpinningBlackHoles.jl` and `System.jl` within this repository.
