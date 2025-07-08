@@ -17,9 +17,14 @@ If you use this code you are kindly asked to cite the following papers:
     year = "2023"
 }
 
+
 @article{GalacticBlackHoles,
     author = "Fernandes, Pedro G. S. and Cardoso, Vitor",
     title = "{Spinning black holes in astrophysical environments}",
+    eprint = "2507.04389",
+    archivePrefix = "arXiv",
+    primaryClass = "gr-qc",
+    month = "7",
     year = "2025"
 }
 ```
